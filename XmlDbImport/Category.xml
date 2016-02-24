@@ -1,0 +1,91 @@
+<ArrayOfProductCategory xmlns="http://schemas.datacontract.org/2004/07/WAAD.POC.ProductCatalog.DataModels" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ProductCategory>
+    <Id>1</Id>
+    <ImagePath>/Data/ProductCategoryImages/4030101.png</ImagePath>
+    <Name>Audio</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>11</Id>
+        <ImagePath>/Data/ProductCategoryImages/4040101.png</ImagePath>
+        <Name>Car audio</Name>
+        <ProductCount>13</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>12</Id>
+        <ImagePath>/Data/ProductCategoryImages/4010101.png</ImagePath>
+        <Name>MP3</Name>
+        <ProductCount>34</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>13</Id>
+        <ImagePath>/Data/ProductCategoryImages/4030101.png</ImagePath>
+        <Name>Headphones</Name>
+        <ProductCount>31</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>14</Id>
+        <ImagePath>/Data/ProductCategoryImages/4020101.png</ImagePath>
+        <Name>Speakers</Name>
+        <ProductCount>36</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+  <ProductCategory>
+    <Id>2</Id>
+    <ImagePath/>
+    <Name>Cameras</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>15</Id>
+        <ImagePath>/Data/ProductCategoryImages/2030101.png</ImagePath>
+        <Name>Camcorders</Name>
+        <ProductCount>24</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>16</Id>
+        <ImagePath>/Data/ProductCategoryImages/2010101.png</ImagePath>
+        <Name>Digital cameras</Name>
+        <ProductCount>56</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>17</Id>
+        <ImagePath>/Data/ProductCategoryImages/2040101.png</ImagePath>
+        <Name>Camera accessories</Name>
+        <ProductCount>12</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>18</Id>
+        <ImagePath>/Data/ProductCategoryImages/2020101.png</ImagePath>
+        <Name>Digital SLR cameras</Name>
+        <ProductCount>26</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+  
+  <ProductCategory>
+    <Id>4</Id>
+    <ImagePath/>
+    <Name>Home Appliances</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>25</Id>
+        <ImagePath>/Data/ProductCategoryImages/3010101.png</ImagePath>
+        <Name>Air conditioners</Name>
+        <ProductCount>34</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>26</Id>
+        <ImagePath>/Data/ProductCategoryImages/3020101.png</ImagePath>
+        <Name>Microwaves</Name>
+        <ProductCount>34</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>27</Id>
+        <ImagePath>/Data/ProductCategoryImages/3030101.png</ImagePath>
+        <Name>Washers and dryers</Name>
+        <ProductCount>21</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+  
+</ArrayOfProductCategory>
